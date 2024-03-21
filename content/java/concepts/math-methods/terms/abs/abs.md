@@ -1,6 +1,6 @@
 ---
 Title: '.abs()'
-Description: 'Returns the absolute value of the argument.'
+Description: 'Returns the absolute value of the argument called modulus.'
 Subjects:
   - 'Computer Science'
 Tags:
@@ -46,3 +46,5 @@ This produces the following output:
 2
 340.8
 ```
+
+
